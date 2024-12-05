@@ -1,7 +1,3 @@
-Here’s a sample `README.md` written in French for your task management website:
-
----
-
 # **Task Management Website**  
 
 ## **Description**  
