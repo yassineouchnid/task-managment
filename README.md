@@ -70,4 +70,3 @@ L'application sera accessible sur `http://localhost:3000`.
 
 ## **Limitations**  
 - L'application **n'est pas encore responsive** et n'est pas adaptée pour une utilisation sur mobile.  
-- L'authentification des utilisateurs n'est pas encore implémentée.  
