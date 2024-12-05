@@ -46,7 +46,7 @@ npm install
 
 Puis pour le frontend :  
 ```bash
-cd ../frontend
+cd ../taskmanagment
 npm install
 ```
 
@@ -55,12 +55,12 @@ npm install
 - Démarrez le backend :  
 ```bash
 cd backend
-npm run start
+node index
 ```
 
 - Démarrez le frontend :  
 ```bash
-cd ../frontend
+cd ../taskmanagment
 npm start
 ```
 
